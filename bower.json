@@ -1,0 +1,17 @@
+{
+  "name": "Repositorio5Web",
+  "homepage": "https://github.com/iseizero/Repositorio5Web",
+  "authors": [
+    "Mirko Gonzalez <gonzalez.mirko91@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
