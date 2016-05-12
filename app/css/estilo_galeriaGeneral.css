@@ -1,0 +1,14 @@
+body{
+  background-color: red;
+}
+img{
+  margin: auto;
+}
+.thumbnail{
+  max-width: 180px;
+  min-height: 273px;
+}
+.lead{
+  color: white;
+  text-align: center;
+}
